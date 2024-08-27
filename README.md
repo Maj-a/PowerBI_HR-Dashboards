@@ -1,5 +1,10 @@
 # PowerBI_HR-Dashboards
 
+## Background: 
+The data for analysis is a Glassdoor Gender Pay Gap data obtained from Kaggle in which base pay and bonus, seniority, education level/type and gender information are provided for each employee, the job titles and departments are also included.
+Link to the data set as accessed on the 04.07.2024: https://www.kaggle.com/datasets/nilimajauhari/glassdoor-analyze-gender-pay-gap/data 
+(The reason why the link has not been provided as a hyperlink is to be transparent about the source of the data & security.)
+
 ### **Here's what we'll explore in this project:**
 
 I will present four dashboards that showcase insights drawn from Glassdoor Gender Pay Gap data. While showing a static image of a dashboard is not ideal since it removes the interactive experience, I’ve attached the Power BI file so you can download it, open it in Power BI Desktop, plug in the dataset (see the link provided above), and explore it yourself. Feel free to reach out if you have any questions.
